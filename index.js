@@ -36,6 +36,42 @@ const songs = [
       displayName: 'Strangers',
       cover: 'assets/4.jpg',
       artist: 'Kenya Grace',
+  },
+  {
+      path: 'assets/5.mp3',
+      displayName: 'V.I.P',
+      cover: 'assets/5.jpg',
+      artist: 'Jolixwery, Bibi Babydoll',
+  },
+  {
+      path: 'assets/6.mp3',
+      displayName: 'MONTAGEM CORAL',
+      cover: 'assets/6.jpg',
+      artist: 'Veysxl, Batuzane',
+  },
+  {
+      path: 'assets/7.mp3',
+      displayName: 'Untrust Us - Slowed + Reverb',
+      cover: 'assets/7.jpg',
+      artist: 'Skyemane',
+  },
+  {
+      path: 'assets/8.mp3',
+      displayName: 'Yeat X Gojo (Wat U Want) - Slowed',
+      cover: 'assets/8.jpg',
+      artist: 'Rsendara',
+  },
+  {
+      path: 'assets/9.mp3',
+      displayName: 'DESTEMIDO',
+      cover: 'assets/9.jpg',
+      artist: 'Quinten V',
+  },
+  {
+      path: 'assets/10.mp3',
+      displayName: '1 Thing',
+      cover: 'assets/10.jpg',
+      artist: 'Amerie',
   }
 ];
 
